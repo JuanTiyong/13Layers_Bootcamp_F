@@ -9,19 +9,6 @@
 
 ---
 
-## 1. Consignes générales
-
-Chaque étudiant doit :
-
-1. Lire attentivement les 10 questions.
-2. Répondre avec ses propres mots, en donnant des exemples lorsque cela est demandé.
-3. Enregistrer ses réponses dans son dossier de travail sur GitHub.
-4. Respecter les règles de nommage des branches et des fichiers.
-5. Soumettre son travail au moyen d'une Pull Request.
-6. Suivre la formation complémentaire indiquée sur OpenClassrooms et fournir une preuve de réalisation.
-
-**Important :** le copier-coller sans compréhension n'est pas recommandé. Les réponses doivent démontrer votre compréhension des concepts étudiés.
-
 ---
 
 ## 2. Questionnaire
